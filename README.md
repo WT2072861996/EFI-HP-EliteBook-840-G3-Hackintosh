@@ -28,3 +28,19 @@ touch pad | Synaptics SMBus|
 Audio | Conexant CX20724|
 Wi-Fi/BT | Intel Wireless-AC 8260|
 Ethernet | Intel I219-LM|
+<p align="center">  
+BIOS
+</p>
+
+|option|||
+|-|-|-|
+Security | Intel Software Guard Extensions (SGX) | Disable
+Advanced | Boot Options | Uncheck "Fast Boot"
+Advanced | Boot Options | Check "UEFI Boot Order"
+Advanced | Boot Options | Uncheck "Legacy Boot Order"
+Advanced | Secure Boot Configuration -> Configure Legacy Support | Disable
+dvanced | Secure Boot Configuration -> Secure boot | Disable
+Advanced | System Options |Check "Hyperthreading"
+Advanced | System Options | Check "Virtualization Technology (VTx)"
+Advanced | System Options | Uncheck "Virtualization Technology for Directed I/O (VTd)"
+Advanced | Built-In Device Options -> Video memory size | 64MB or anything higher
