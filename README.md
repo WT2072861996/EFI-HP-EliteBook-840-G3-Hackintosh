@@ -28,6 +28,7 @@ touch pad | Synaptics SMBus|
 Audio | Conexant CX20724|
 Wi-Fi/BT | Intel Wireless-AC 8260|
 Ethernet | Intel I219-LM|
+
 <p align="center">  
 BIOS
 </p>
@@ -44,3 +45,7 @@ Advanced | System Options |Check "Hyperthreading"
 Advanced | System Options | Check "Virtualization Technology (VTx)"
 Advanced | System Options | Uncheck "Virtualization Technology for Directed I/O (VTd)"
 Advanced | Built-In Device Options -> Video memory size | 64MB or anything higher
+
+<p align="center">  
+<img src="https://wt2072861996.github.io/WT-IMG//20250413221257085.png?raw=true" align="center" alt="" width="80" height="80"/>
+  
