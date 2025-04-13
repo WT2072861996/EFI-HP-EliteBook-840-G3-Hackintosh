@@ -18,16 +18,55 @@ DETAILED INFORMATION</span>
 HARDWARE INFORMATION
 </p>
 
-| confing   | Details                |                       |
-|:----------|:-----------------------|:----------------------|
-| OpenCore  | 1.04                   | Continuously updating |
-| CPU       | Intel Core i5-6300U    |                       |
-| GPU       | Intel UHD Graphics530  |                       |
-| Memory    | 8GB（8GB×1）DDR42133MHz  |                       |
-| touch pad | Synaptics SMBus        |                       |
-| Audio     | Conexant CX20724       |                       |
-| Wi-Fi/BT  | Intel Wireless-AC 8260 |                       |
-| Ethernet  | Intel I219-LM          |                       |
+<div style="display: flex; flex - direction: row; justify - content: center;">
+  <div style="width: 50%;">
+    <table border="1">
+      <thead>
+        <tr>
+          <th>config</th>
+          <th>Details</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>OpenCore</td>
+          <td>1.04</td>
+        </tr>
+        <tr>
+          <td>CPU</td>
+          <td>Intel Core i5 - 6300U</td>
+        </tr>
+        <tr>
+          <td>GPU</td>
+          <td>Intel UHD Graphics530</td>
+        </tr>
+        <tr>
+          <td>Memory</td>
+          <td>8GB (8GB×1) DDR42133MHz</td>
+        </tr>
+        <tr>
+          <td>touch pad</td>
+          <td>Synaptics SMBus</td>
+        </tr>
+        <tr>
+          <td>Audio</td>
+          <td>Conexant CX20724</td>
+        </tr>
+        <tr>
+          <td>Wi - Fi/BT</td>
+          <td>Intel Wireless - AC 8260</td>
+        </tr>
+        <tr>
+          <td>Ethernet</td>
+          <td>Intel I219 - LM</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  <div style="width: 50%;">
+    <img src="https://github.com/WT2072861996/EFI-HP-EliteBook-840-G3-Hackintosh/blob/1e1262dc4ca7b685a06feaaaf50b58c831b1561b/After%20installation/1.png" alt="硬件信息相关图片">
+  </div>
+</div>
 
 <p align="center">  
 BIOS
