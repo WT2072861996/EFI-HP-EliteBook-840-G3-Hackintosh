@@ -47,6 +47,6 @@ Advanced | System Options | Uncheck "Virtualization Technology for Directed I/O 
 Advanced | Built-In Device Options -> Video memory size | 64MB or anything higher
 
 <p align="center">  
-<a  href="https://m.tb.cn/h.6d6akvV?tk=e85zeFZn3IX"><img src="https://wt2072861996.github.io/WT-IMG//20250413221257085.png"?raw=true" align="center" alt="" width="80">
+<a  href="https://m.tb.cn/h.6d6akvV?tk=e85zeFZn3IX"><img src="https://wt2072861996.github.io/WT-IMG//20250413221257085.png"?raw=true" align="center" alt="" width="80" height="80" >
 </p>
   
