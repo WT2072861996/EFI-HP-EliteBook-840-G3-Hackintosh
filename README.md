@@ -13,3 +13,18 @@ DETAILED INFORMATION</span>
 | About This Computer | hardware| touch pad | Graphics card |
 | :-: | :-: | :-: | :-:|
 |<img src="https://github.com/WT2072861996/EFI-HP-EliteBook-840-G3-Hackintosh/blob/1e1262dc4ca7b685a06feaaaf50b58c831b1561b/After%20installation/1.png">|<img src="https://github.com/WT2072861996/EFI-HP-EliteBook-840-G3-Hackintosh/blob/1e1262dc4ca7b685a06feaaaf50b58c831b1561b/After%20installation/2.png">|<img src="https://github.com/WT2072861996/EFI-HP-EliteBook-840-G3-Hackintosh/blob/1e1262dc4ca7b685a06feaaaf50b58c831b1561b/After%20installation/3.png">|<img src="https://github.com/WT2072861996/EFI-HP-EliteBook-840-G3-Hackintosh/blob/1e1262dc4ca7b685a06feaaaf50b58c831b1561b/After%20installation/4.png">
+
+<p align="center">  
+HARDWARE INFORMATION
+</p>
+
+| confing | Details | |
+|:-|:-|:-|
+OpenCore | 1.04 | Continuously updating |
+CPU | Intel Core i5-6300U|
+GPU | Intel UHD Graphics530|
+Memory | 8GB（8GB×1）DDR42133MHz|
+touch pad | Synaptics SMBus|
+Audio | Conexant CX20724|
+Wi-Fi/BT | Intel Wireless-AC 8260|
+Ethernet | Intel I219-LM|
