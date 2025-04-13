@@ -10,8 +10,6 @@
 DETAILED INFORMATION</span>
 </p>
 
-| About This Computer | hardware|
-| :-: | :-: |
-|<img src="https://github.com/WT2072861996/EFI-HP-EliteBook-840-G3-Hackintosh/blob/1e1262dc4ca7b685a06feaaaf50b58c831b1561b/After%20installation/1.png">|<img src="https://github.com/WT2072861996/EFI-HP-EliteBook-840-G3-Hackintosh/blob/1e1262dc4ca7b685a06feaaaf50b58c831b1561b/After%20installation/2.png">
-| touch pad | Graphics card |
-|<img src="https://github.com/WT2072861996/EFI-HP-EliteBook-840-G3-Hackintosh/blob/1e1262dc4ca7b685a06feaaaf50b58c831b1561b/After%20installation/3.png">|<img src="https://github.com/WT2072861996/EFI-HP-EliteBook-840-G3-Hackintosh/blob/1e1262dc4ca7b685a06feaaaf50b58c831b1561b/After%20installation/4.png">
+| About This Computer | hardware| touch pad | Graphics card |
+| :-: | :-: | :-: | :-:|
+|<img src="https://github.com/WT2072861996/EFI-HP-EliteBook-840-G3-Hackintosh/blob/1e1262dc4ca7b685a06feaaaf50b58c831b1561b/After%20installation/1.png">|<img src="https://github.com/WT2072861996/EFI-HP-EliteBook-840-G3-Hackintosh/blob/1e1262dc4ca7b685a06feaaaf50b58c831b1561b/After%20installation/2.png">|<img src="https://github.com/WT2072861996/EFI-HP-EliteBook-840-G3-Hackintosh/blob/1e1262dc4ca7b685a06feaaaf50b58c831b1561b/After%20installation/3.png">|<img src="https://github.com/WT2072861996/EFI-HP-EliteBook-840-G3-Hackintosh/blob/1e1262dc4ca7b685a06feaaaf50b58c831b1561b/After%20installation/4.png">
